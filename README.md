@@ -28,5 +28,5 @@
 	
 3. Create a password input field such that once the number of characters entered reaches 8 or more, a green check <span id="check">✔</span> is displayed next to the field, otherwise a red cross <span id="cross">✘</span> is shown.
 
-    <img src="images/2.png" width="200" %>
+    <img src="images/2.png" width="200" />
     
