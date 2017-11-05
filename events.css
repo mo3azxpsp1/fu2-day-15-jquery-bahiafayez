@@ -1,0 +1,41 @@
+ul li{
+	text-align: center;
+	width: 130px;
+	padding: 20px;
+	background-color: #2B3942;
+	color: #FFBB16;
+}
+
+li{
+	list-style: none;
+}
+
+ul p{
+	background-color: #FFBB16;
+	width: 130px;
+	padding: 20px;
+}
+p{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+#toggle1, #toggle2, #toggle3{
+	display: none;
+
+}
+
+#correct{
+	display: none;
+}
+
+#wrong{
+	display: inline;
+}
+
+#correct{
+	color: green;
+}
+
+#wrong{
+	color: red;
+}
